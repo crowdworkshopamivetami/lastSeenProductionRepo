@@ -6,7 +6,7 @@ import lastSeen.commonObjects.PersonalInfo;
  * Created by kabessa on 21/11/2015.
  */
 public class Contact extends PersonalInfo {
-    private int id;
+    private int id = -1;
     private String relation;
 
     public Contact(){}
