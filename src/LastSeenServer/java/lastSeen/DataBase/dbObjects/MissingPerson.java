@@ -11,7 +11,7 @@ import lastSeen.commonObjects.PersonalInfo;
 import java.util.List;
 
 public class MissingPerson {
-    private int id;
+    private int id = -1;
     private String firstName;
     private String lastName;
     private String age;
@@ -27,7 +27,7 @@ public class MissingPerson {
 
     public MissingPerson(){}
 
-    public MissingPerson(String firstName, String lastName, String age, String height, String wight, List<Sighting> sightings,
+    public MissingPerson(int id, String firstName, String lastName, String age, String height, String weight, List<Sighting> sightings,
                          String gender, String additionalDetails, String picUrl, String nationality, String ethnicity, int registeredUserId){
         this.firstName = firstName;
         this.lastName = lastName;
@@ -41,7 +41,7 @@ public class MissingPerson {
         this.nationality = nationality;
         this.ethnicity = ethnicity;
         this.registeredUserId = registeredUserId;
-        this.id = -1;
+        this.id = id;
     }
 
     public int getId(){
@@ -140,8 +140,10 @@ public class MissingPerson {
                 .append(", age: ").append(age)
                 .append(", height: ").append(height)
                 .append(", weight: ").append(weight)
-                .append(", sightings: ").append(sightings.toString())
-                .append(", gender: ").append(gender)
+                .append(", sightings: ");
+        for (Sighting sighting : sightings)
+                sb.append(sighting.toString());
+        sb.append(", gender: ").append(gender)
                 .append(", additionalDetails: ").append(additionalDetails)
                 .append(", picUrl: ").append(picUrl)
                 .append(", nationality: ").append(nationality)
