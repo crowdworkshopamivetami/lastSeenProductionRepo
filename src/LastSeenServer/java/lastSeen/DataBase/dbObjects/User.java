@@ -13,6 +13,7 @@ public class User {
     private int id = -1;
     private String password;
     private String gender;
+    private String dateOfBirth;
     private String address;
     private String country;
     private String picUrl
@@ -24,12 +25,13 @@ public class User {
 
     public User(){}
 
-    public User(int id, String password, String gender, String address,
+    public User(int id, String password, String gender, String dateOfBirth, String address,
     String country, String picUrl, PersonalInfo info, Contact contact, List<Trip> trips,
-    List<MissingPerson> missPersons, boolean isRescueTeam){
+    List<MissingPerson> missPersons, boolean isRescueTeam;){
         this.id = id;
         this.password = password;
         this.gender = gender;
+        this.dateOfBirth = dateOfBirth;
         this.address = address;
         this.country = country;
         this.picUrl = picUrl;
@@ -46,6 +48,14 @@ public class User {
     
     public void setId(int id){
         this.id = id;
+    }
+
+    public String getDateOfBirth(){
+        return this.dateOfBirth;
+    }
+
+    public void setDateOfBirth(String dateOfBirth){
+        this.dateOfBirth = dateOfBirth;
     }
 
     public String getPassword(){
@@ -131,7 +141,8 @@ public class User {
     public String toString(){
         StringBuilder sb = new StringBuilder();
         sb.append("id: ").append(id).append(", password:").append(password)
-        .append(", gender: ").append(gender).append(", address: ").append(address)
+        .append(", gender: ").append(gender).appebd(", dateOfBirth: ").append(dateOfBirth)
+        .append(", address: ").append(address)
         .append(", country: ").append(country).append(", picUrl: ").append(picUrl)
         .append(", info: ").append(info).append(", contact: ").append(contact)
         .append(", trips: ").append(trips).append(", missPerson: ").append(missPerson)
