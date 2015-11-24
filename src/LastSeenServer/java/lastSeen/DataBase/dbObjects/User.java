@@ -92,11 +92,11 @@ public class User {
         this.country = country;
     }
 
-    public String getPicurl(){
+    public String getPicUrl(){
         return this.picUrl;
     }    
 
-    public void setPicurl(String picUrl){
+    public void setPicUrl(String picUrl){
         this.picUrl = picUrl;
     }
 
@@ -132,11 +132,11 @@ public class User {
         this.missPersons = missPersons;
     }
 
-    public boolean getIsrescueteam(){
+    public boolean getIsRescueTeam(){
         return this.isRescueTeam;
     }    
 
-    public void setIsrescueteam(boolean isRescueTeam){
+    public void setIsRescueTeam(boolean isRescueTeam){
         this.isRescueTeam = isRescueTeam;
     }
 
