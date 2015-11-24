@@ -146,7 +146,7 @@ public class User {
         .append(", gender: ").append(gender).append(", dateOfBirth: ").append(dateOfBirth)
         .append(", address: ").append(address)
         .append(", country: ").append(country).append(", picUrl: ").append(picUrl)
-        .append(", info: ").append(info).append(", contact: ").append(contact)
+        .append(", info: ").append(info).append(",contact: ").append(contact)
         .append(", trips: ").append(trips).append(", missPerson: ").append(missPersons)
         .append(", isRescueTeam: ");
         return sb.toString();
