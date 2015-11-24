@@ -7,12 +7,20 @@
       <sourceFolder url="file://$MODULE_DIR$/src/LastSeenServer/java" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/LastSeenServer/resources" />
     </content>
+<<<<<<< HEAD
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+=======
+    <orderEntry type="jdk" jdkName="1.6" jdkType="JavaSDK" />
+>>>>>>> origin/master
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/antlr-2.7.6.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/antlr-2.7.6.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -21,7 +29,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/asm-3.1.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/asm-3.1.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -30,7 +42,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/axis-1.4.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/axis-1.4.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -39,7 +55,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/c3p0-0.9.1.1.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/c3p0-0.9.1.1.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -48,7 +68,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/cglib-2.2.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/cglib-2.2.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -57,7 +81,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/commons-codec-1.2.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/commons-codec-1.2.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -66,7 +94,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/commons-collections-3.1.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/commons-collections-3.1.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -75,7 +107,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/commons-dbutils-1.5.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/commons-dbutils-1.5.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -84,7 +120,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/commons-discovery-0.4.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/commons-discovery-0.4.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -93,7 +133,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/commons-fileupload-1.2.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/commons-fileupload-1.2.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -102,7 +146,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/commons-httpclient-3.1.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/commons-httpclient-3.1.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -111,7 +159,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/commons-io-2.4.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/commons-io-2.4.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -120,7 +172,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/commons-lang3-3.1.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/commons-lang3-3.1.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -129,7 +185,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/commons-logging-1.0.4.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/commons-logging-1.0.4.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -138,7 +198,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/commons-net-3.1.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/commons-net-3.1.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -147,7 +211,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -156,7 +224,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/fat32-lib-0.6.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/fat32-lib-0.6.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -165,7 +237,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/hibernate-c3p0-3.3.2.GA.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/hibernate-c3p0-3.3.2.GA.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -174,7 +250,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/hibernate-core-3.3.2.GA.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/hibernate-core-3.3.2.GA.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -183,7 +263,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/jackson-core-asl-1.9.2.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/jackson-core-asl-1.9.2.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -192,7 +276,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/jackson-jaxrs-1.9.2.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/jackson-jaxrs-1.9.2.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -201,7 +289,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -210,7 +302,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/jackson-xc-1.9.2.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/jackson-xc-1.9.2.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -219,7 +315,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/javacore-1.0.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/javacore-1.0.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -228,7 +328,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/javassist-3.13.0.GA.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/javassist-3.13.0.GA.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -237,7 +341,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/jbossall-client-1.0.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/jbossall-client-1.0.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -246,7 +354,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/jcommon-1.0.16.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/jcommon-1.0.16.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -255,7 +367,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/jersey-core-1.19.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/jersey-core-1.19.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -264,7 +380,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/jersey-json-1.19.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/jersey-json-1.19.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -273,7 +393,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/jersey-server-1.19.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/jersey-server-1.19.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -282,7 +406,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/jersey-servlet-1.19.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/jersey-servlet-1.19.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -291,7 +419,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/jettison-1.1.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/jettison-1.1.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -300,7 +432,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/jsr311-api-1.1.1.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/jsr311-api-1.1.1.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -309,7 +445,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/jta-1.1.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/jta-1.1.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -318,7 +458,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/log4j-1.2.15.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/log4j-1.2.15.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -327,7 +471,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/mysql-connector-java-5.1.10.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/mysql-connector-java-5.1.10.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -336,7 +484,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/ojdbc14-10.2.0.4.0.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/ojdbc14-10.2.0.4.0.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -345,7 +497,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/servlet-api.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/servlet-api.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -354,7 +510,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/slf4j-api-1.5.8.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/slf4j-api-1.5.8.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -363,7 +523,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/slf4j-log4j12-1.5.8.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/slf4j-log4j12-1.5.8.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -372,7 +536,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/spring-aop-3.0.0.RELEASE.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/spring-aop-3.0.0.RELEASE.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -381,7 +549,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/spring-asm-3.0.0.RELEASE.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/spring-asm-3.0.0.RELEASE.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -390,7 +562,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/spring-beans-3.0.0.RELEASE.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/spring-beans-3.0.0.RELEASE.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -399,7 +575,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/spring-context-3.0.0.RELEASE.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/spring-context-3.0.0.RELEASE.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -408,7 +588,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/spring-core-3.0.0.RELEASE.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/spring-core-3.0.0.RELEASE.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -417,7 +601,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/spring-expression-3.0.0.RELEASE.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/spring-expression-3.0.0.RELEASE.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -426,7 +614,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/spring-jdbc-3.0.0.RELEASE.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/spring-jdbc-3.0.0.RELEASE.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -435,7 +627,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/spring-latest.build.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/spring-latest.build.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -444,7 +640,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/spring-orm-3.0.0.RELEASE.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/spring-orm-3.0.0.RELEASE.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -453,7 +653,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/spring-tx-3.0.0.RELEASE.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/spring-tx-3.0.0.RELEASE.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -462,7 +666,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
+<<<<<<< HEAD
           <root url="jar://C:/Program Files (x86)/Apache Software Foundation/Tomcat 8.0/webapps/lastSeen/WEB-INF/lib/sqljdbc-4.0.jar!/" />
+=======
+          <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/lastSeen/WEB-INF/lib/sqljdbc-4.0.jar!/" />
+>>>>>>> origin/master
         </CLASSES>
         <JAVADOC />
         <SOURCES />

@@ -5,6 +5,8 @@ import lastSeen.DataBase.dbObjects.Contact;
 import lastSeen.DataBase.dbObjects.Trip;
 import lastSeen.DataBase.dbObjects.MissingPerson;
 
+import java.util.List;
+
 
 /**
  * Created by Amir-Sk on 24/11/2015.
@@ -27,7 +29,7 @@ public class User {
 
     public User(int id, String password, String gender, String dateOfBirth, String address,
     String country, String picUrl, PersonalInfo info, Contact contact, List<Trip> trips,
-    List<MissingPerson> missPersons, boolean isRescueTeam;){
+    List<MissingPerson> missPersons, boolean isRescueTeam){
         this.id = id;
         this.password = password;
         this.gender = gender;
@@ -42,7 +44,7 @@ public class User {
         this.isRescueTeam = isRescueTeam;
     }
 
-    public String getId(){
+    public int getId(){
         return this.id;
     }
     
@@ -90,12 +92,12 @@ public class User {
         this.country = country;
     }
 
-    public String getPicurl(){
+    public String getPicUrl(){
         return this.picUrl;
     }    
 
-    public void setPicurl(String picUrl){
-        this.picUrl = picUrl
+    public void setPicUrl(String picUrl){
+        this.picUrl = picUrl;
     }
 
     public PersonalInfo getInfo(){
@@ -122,30 +124,30 @@ public class User {
         this.trips = trips;
     }
 
-    public List<MissingPerson> getMissperson (){
-        return this.MissPerson;
+    public List<MissingPerson> getMissPerson(){
+        return this.missPersons;
     }
 
     public void setId(List<MissingPerson> missPersons){
         this.missPersons = missPersons;
     }
 
-    public boolean getIsrescueteam(){
+    public boolean getIsRescueTeam(){
         return this.isRescueTeam;
     }    
 
-    public void setIsrescueteam(boolean isRescueTeam){
+    public void setIsRescueTeam(boolean isRescueTeam){
         this.isRescueTeam = isRescueTeam;
     }
 
     public String toString(){
         StringBuilder sb = new StringBuilder();
         sb.append("id: ").append(id).append(", password:").append(password)
-        .append(", gender: ").append(gender).appebd(", dateOfBirth: ").append(dateOfBirth)
+        .append(", gender: ").append(gender).append(", dateOfBirth: ").append(dateOfBirth)
         .append(", address: ").append(address)
         .append(", country: ").append(country).append(", picUrl: ").append(picUrl)
-        .append(", info: ").append(info).append(", contact: ").append(contact)
-        .append(", trips: ").append(trips).append(", missPerson: ").append(missPerson)
+        .append(", info: ").append(info).append(",contact: ").append(contact)
+        .append(", trips: ").append(trips).append(", missPerson: ").append(missPersons)
         .append(", isRescueTeam: ");
         return sb.toString();
     }
