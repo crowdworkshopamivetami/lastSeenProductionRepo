@@ -1,4 +1,4 @@
-package lastSeen.commonObjects;
+package lastSeen.DataBase.dbObjects;
 
 import lastSeen.commonObjects.PersonalInfo;
 import lastSeen.DataBase.dbObjects.Contact;
@@ -10,7 +10,7 @@ import lastSeen.DataBase.dbObjects.MissingPerson;
  * Created by Amir-Sk on 24/11/2015.
  */
 public class User {
-    private String id;
+    private int id = -1;
     private String password;
     private String gender;
     private String address;
@@ -24,7 +24,7 @@ public class User {
 
     public User(){}
 
-    public User(String id, String password, String gender, String address,
+    public User(int id, String password, String gender, String address,
     String country, String picUrl, PersonalInfo info, Contact contact, List<Trip> trips,
     List<MissingPerson> missPersons, boolean isRescueTeam){
         this.id = id;
@@ -44,7 +44,7 @@ public class User {
         return this.id;
     }
     
-    public void setId(String id){
+    public void setId(int id){
         this.id = id;
     }
 
