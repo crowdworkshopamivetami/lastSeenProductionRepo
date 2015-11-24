@@ -16,7 +16,7 @@ public class User {
     private String dateOfBirth;
     private String address;
     private String country;
-    private String picUrl
+    private String picUrl;
     private PersonalInfo info;
     private Contact contact;
     private List<Trip> trips;
